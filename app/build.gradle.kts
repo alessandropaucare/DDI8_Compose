@@ -6,12 +6,12 @@ plugins {
 
 android {
     namespace = "com.example.ddi8_tarea1_ape"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.example.ddi8_tarea1_ape"
         minSdk = 24
-        targetSdk = 34
+        targetSdk = 35
         versionCode = 1
         versionName = "1.0"
 
