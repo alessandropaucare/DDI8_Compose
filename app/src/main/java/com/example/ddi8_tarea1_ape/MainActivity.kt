@@ -208,6 +208,7 @@ val destacados = listOf(
     "Lencería y pijamas de mujer",
     "Ropa de hombre",
     "Calzado de hombre"
+    //Ccomentario
 )
 
 
